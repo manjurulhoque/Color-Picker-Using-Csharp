@@ -1,0 +1,9 @@
+E:\C#\ScreenColor\ScreenColor\bin\Debug\ScreenColor.exe.config
+E:\C#\ScreenColor\ScreenColor\bin\Debug\ScreenColor.exe
+E:\C#\ScreenColor\ScreenColor\bin\Debug\ScreenColor.pdb
+E:\C#\ScreenColor\ScreenColor\obj\Debug\ScreenColor.csprojResolveAssemblyReference.cache
+E:\C#\ScreenColor\ScreenColor\obj\Debug\ScreenColor.Form1.resources
+E:\C#\ScreenColor\ScreenColor\obj\Debug\ScreenColor.Properties.Resources.resources
+E:\C#\ScreenColor\ScreenColor\obj\Debug\ScreenColor.csproj.GenerateResource.Cache
+E:\C#\ScreenColor\ScreenColor\obj\Debug\ScreenColor.exe
+E:\C#\ScreenColor\ScreenColor\obj\Debug\ScreenColor.pdb
